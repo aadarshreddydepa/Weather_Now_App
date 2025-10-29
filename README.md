@@ -171,8 +171,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - [React](https://react.dev) - UI library
 
 ## 📸 Screenshots
-
-[Screenshot](screenshot/Screenshot 2025-10-29 at 12.48.58 PM.png)
+![Weather App Screenshot](./screenshot/image.png)
 
 ---
 
