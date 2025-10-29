@@ -1,6 +1,3 @@
-Here's a comprehensive **README.md** file for your Outdoor Weather Tracker app:
-
-```markdown
 # 🌤️ Outdoor Weather Tracker
 
 A modern, responsive weather application built with React, Vite, and Tailwind CSS that provides real-time weather data and 3-day forecasts for any city worldwide.
